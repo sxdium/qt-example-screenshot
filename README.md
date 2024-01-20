@@ -1,1 +1,1 @@
-# qt-example-screenshot
+> Пример создания скриншота в `Qt`
